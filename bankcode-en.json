@@ -1,8 +1,8 @@
 {
+	"Bank of Korea" : "001",
 	"Korea Development Bank" : "002",
 	"Industrial Bank of Korea" : "003",
 	"KB Kookmin Bank" : "004",
-	"Korea Exchange Bank" : "005",
 	"National Federation of Fisheries Cooperatives" : "007",
 	"Korea Eximbank" : "008",
 	"Nonghyup Bank" : "011",
@@ -21,6 +21,8 @@
 	"Mutual Savings Bank" : "050",
 	"Korea Post" : "071",
 	"KEB Hana Bank" : "081",
+	"KEB Hana Bank (080)" : "080",
+	"KEB Hana Bank (082)" : "082",
 	"Shinhan Bank" : "088",
 	"K-Bank" : "089",
 	"Kakao Bank" : "090",
