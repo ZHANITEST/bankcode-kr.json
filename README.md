@@ -5,4 +5,9 @@ bank code of kr(.rep of) from bithumb exchange(https://www.bithumb.com) :smile:
  * ☑️ Korean[kr] (ooooof course)
  * ☑️ English[en]
  
-Many thanks for help this work. Thank you. 💕
+# U SHOLD KNOW!
+See [https://github.com/ZHANITEST/bankcode-kr.json/labels/NOTED](https://github.com/ZHANITEST/bankcode-kr.json/labels/NOTED)
+
+
+
+Many thanks for help this work. Thank you! 💕
